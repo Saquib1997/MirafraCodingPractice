@@ -1,0 +1,2 @@
+1. gcc -c displayBits.c -o displayBits.o
+2. gcc BitMan.c displayBits.o -o BitMan
