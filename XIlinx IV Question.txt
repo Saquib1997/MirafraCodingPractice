@@ -1,0 +1,65 @@
+............................ROUND 1.................
+
+1. Explain the compilation stages?what is static linking and dynamic linking?
+2. What are storage classes?
+3. Structure vs union?
+4. How to print structure size without sizeof operator?
+5. Programe to find the bit is set or reset?
+6. Programe for toggle bit? how it function internally?
+
+
+7. I2C vs SPI ? Which is faster and Why ?
+8. I2C start and stop conditions ?
+9. How I2C will select a Slave ?
+
+10. Explain Booting process ?
+11. What is rfs ?
+12. What is ARM ?
+13. What are Interrupts ? How many are there ?
+
+14. What is difference between MUTEX and SEMAPHORE ?
+15. Can we use Semaphore in place of Mutex ?
+16. Which locking mechanism does Interrupts follow ?
+17. How does cpu knows Interrupt occyrs ? How control will transfer to the Interrupts ?
+18. What is Direct Memory Access ?
+
+
+........................ ROUND 2...................
+
+1. What is Boot loader ? Explain Booting process ? Why primary and secundary boot loaders are required ? 
+2. What is Kernel ? Is it software or Hardware ?
+3. What is Kernel space ?
+4. How many Signal handlers are there ? (SIG_KILL,SIG_SET,....etc) ? What is their data type ? 
+5. What is Application ? 
+
+
+6.  What is I2C ? Draw the diagram of scl and sda pins in start, stop, datatranfer conditions ?
+7.  What is Synchronous ? 
+8.  What is Machine Cyle time ?
+7.  How many bits will trasfer in one MCT ?
+8.  What is the operating frequency of the (8051) controler ? What is frequency ?
+9.  Draw the clock pulse diagram ? Why clock pulse is 1 and 0 , why not 0 and -1 ?
+10. What is SPI ? What is meant by Polarity and Phase ?
+11. What is 64-bit machine operating system ?
+
+
+
+12. Difference between Malloc() and Calloc() ?
+13. How free knows how many bytes to delete ? 
+14. How to free the pointer with out using free() ?
+15. Little Endian vs Big Endian ? Program for Little endian and Bigendian ? 
+
+
+16. Implement Reverse_linked_list function ?
+ 
+
+
+
+
+
+
+
+
+
+ 
+

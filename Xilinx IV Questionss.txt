@@ -1,0 +1,37 @@
+R1 questions 
+
+Repeated start in i2c
+Storage classes 
+Const pointers 
+Const
+Volatile
+Value of static and global and where it is stored
+Spi 
+I2c
+Top halves
+Bottom halves 
+Interrupts
+Struct vs union 
+Typedef
+Struct vs array 
+Linkedlist traversal
+
+R2
+
+Tcs project 
+Asked about arduino 
+String reverse, with that asked in multithreading scenario - lock, global variable, generic for strlen 
+( I took an example for “Hello” so the interviewer asked for generic length )
+
+R3
+
+Previous experience 
+I2c in real time 
+Real time issues of bus arbitration and clock stretching 
+Who will do these 
+I2c vs spi 
+Volatile, const, const volatile 
+Real time examples with sensor inputs how const and volatile and const volatile variables works )
+
+
+{11,34,25,12,10,23,40,1,24} a+b = 35
